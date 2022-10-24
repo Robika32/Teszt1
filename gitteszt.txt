@@ -1,1 +1,3 @@
 Ez itt az első .txt fájl
+Ez itt a második sor a .txt fájlban.
+(Második feltőltés.)
